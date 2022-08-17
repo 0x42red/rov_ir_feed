@@ -1,6 +1,10 @@
 ## About
 This is a raspberry pi compatible facial recognition tool.  This tool is used to explain how retro reflectors can be used to defeat basic facial recognition.  Additionally see the 3DFiles folder for a 3d printable case.
 
+<div align="center">
+<img src="/assets/rov.jpg" alt="RoV crew testing camera" width="300"/>
+</div>
+
 ## Running
 First plug in the camera to your Raspberry Pi
 ```
